@@ -8,14 +8,15 @@ date:       2017-10-21 12:00:00
 author:     "seamus"
 header-img: "img/post-bg-miui6.jpg"
 tags:
-    - 生活
+    - c
 ---
-
+如果自搭的blog贴代码没有了高亮，那将毫无意义。
+[highlight.js实现高亮](#build) 
 >代码高亮测试
 
-<h1>type:c++</h1>
+高亮前：
+<h3>type:c</h3>
 <pre>
-    <code class="c++">
     int main()
     {
         int N,a[50],x,i=0,count;
@@ -31,7 +32,57 @@ tags:
                 printf("%c",a[i]);
             }
             i=0;
+            printf("以上为测试代码");
+    }    
+</pre>
+
+高亮后：
+<h3>type:c</h3>
+<pre>
+    <code class="c">
+    int main()
+    {
+        int N,a[50],x,i=0,count;
+           scanf("%d",&N);
+            count=N;
+            while(N--)
+            {
+                scanf("%d",&x);
+                a[i++]=x;
+            }
+            for(i=0;i&lt;count;i++)
+            {
+                printf("%c",a[i]);
+            }
+            i=0;
+            printf("以上为测试代码");
     }
     </code>
 </pre>
 
+<p class="build"></p>
+---
+<h1>使用 highlight.js 高亮代码</h1>
+
+hightlight.js是用JavaScript编写的语法高亮显示。
+它工作在浏览器和服务器上的浏览器。
+它的作用非常大
+用于标记，不依赖于任何框架，并且具有自动语言
+检测。
+<a href="https://highlightjs.org/">这里是最新版本的下载链接</a>
+
+下面是代码格式：
+<pre>
+    &lt;link rel="stylesheet" type="text/css" href="/highlight/styles/vs2015.css"&gt;
+    &lt;script src="/highlight/highlight.pack.js"&gt;&lt;/script&gt;
+    &lt;script>hljs.initHighlightingOnLoad();&lt;/script&gt;
+    &lt;pre&gt;
+        &lt;code class="类型"&gt;
+         代码   
+        &lt;/code&gt;
+    &lt;/pre&gt;
+
+</pre>
+选好路径样式即可使用。
+
+ 以上。
