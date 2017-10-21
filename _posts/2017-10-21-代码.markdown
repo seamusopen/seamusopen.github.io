@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      "代码高亮测试"
+date:       2017-10-21 12:00:00
+author:     "seamus"
+header-img: "img/post-bg-miui6.jpg"
+tags:
+    - 生活
+---
+
+>代码高亮测试
+
+<pre>
+int main()
+{
+    int N,a[50],x,i=0,count;
+       scanf("%d",&N);
+        count=N;
+        while(N--)
+        {
+            scanf("%d",&x);
+            a[i++]=x;
+        }
+        for(i=0;i<count;i++)
+        {
+            printf("%c",a[i]);
+        }
+        i=0;
+
+}
+</pre>
