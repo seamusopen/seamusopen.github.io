@@ -11,5 +11,5 @@ Hey，我是acsms，大二狗，多出没于[博客](https://seamusopen.github.i
 
 ##### Talks
 
-- 即将 · [Upgrading to Progressive Web Apps](http://2017.jsconf.cn/) · [JSConfCN 上海 2017](http://2017.jsconf.cn/)
+-  · [Upgrading to Progressive Web Apps](http://2017.jsconf.cn/) · [JSConfCN 上海 2017](http://2017.jsconf.cn/)
 
