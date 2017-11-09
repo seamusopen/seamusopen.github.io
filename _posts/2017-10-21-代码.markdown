@@ -33,6 +33,7 @@ tags:
                 printf("%c",a[i]);
             }
             i=0;
+            printf("233333");
             printf("以上为测试代码");
     }    
 </pre>
