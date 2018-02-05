@@ -11,7 +11,7 @@ tags:
 <script src="/js/highlight/highlight.pack.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
-如果自搭的blog贴代码没有了高亮，那将毫无意义。
+如果blog贴代码没有了高亮,就会很难受。
 [highlight.js实现高亮](#build) 
 >代码高亮测试
 
