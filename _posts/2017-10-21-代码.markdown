@@ -88,7 +88,3 @@ hightlight.js是用JavaScript编写的语法高亮显示。
 选好路径样式即可使用。
 
  以上。
-<!-- UY BEGIN -->
-<div id="uyan_frame"></div>
-<script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid=2147089"></script>
-<!-- UY END -->
