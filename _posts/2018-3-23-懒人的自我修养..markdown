@@ -4,7 +4,7 @@ title:      "换地址了"
 subtitle:   " \"换地址了\""
 date:       2018-3-23
 author:     "qinxueke"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "post-blog.jpg"
 tags:
     - blog
    
@@ -29,7 +29,7 @@ tags:
 <p id = "build"></p>
 ---
 
-<a href="http://www.cnblogs.com/seamusopen/"></a>
+<a href="http://www.cnblogs.com/seamusopen/">猛戳这里</a>
 
 
 
