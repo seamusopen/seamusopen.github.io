@@ -1,0 +1,37 @@
+---
+layout:     post
+title:      "换地址了"
+subtitle:   " \"换地址了\""
+date:       2017-10-13
+author:     "qinxueke"
+header-img: "img/post-bg-js-version.jpg"
+tags:
+    - blog
+   
+---
+[新blog](#build)
+
+
+这个博客每次更新都要去github上传
+
+嘛,我太懒了
+
+多一步对我来说都是灾难性的
+
+所以这边这么久没更新是有原因的(才不是因为天天吃鸡而荒废了学业)
+
+那叫什么来着,论懒人的自我修养
+
+好了就这个样子吧,
+
+我的博客搬到了博客园,下面是地址,还是求关注,蒟蒻求大佬指点错误
+
+<p id = "build"></p>
+---
+
+<a href="http://www.cnblogs.com/seamusopen/"></a>
+
+
+
+### Thanks
+
