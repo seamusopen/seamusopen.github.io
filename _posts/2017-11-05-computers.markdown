@@ -2,7 +2,7 @@
 layout:     post
 title:      "电脑选购"
 subtitle:   " \"computer\""
-date:       2017-10-13
+date:       2017-11-05
 author:     "qinxueke"
 header-img: "img/post-bg-js-version.jpg"
 tags:
